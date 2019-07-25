@@ -1,0 +1,55 @@
+* {
+    box-sizing: border-box;
+    }
+    
+    body {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 15px;
+        margin: 0;
+        padding: 0;
+        line-height: 1.6em;
+        background:#f5f5f5;
+    }
+    
+    /* GLOBAL */
+    .container {
+        width: 80%;
+        margin: auto;
+        overflow: hidden;
+    }
+
+
+   /* HEADER STYLES */
+   
+    header {
+        background: #1a3547;
+        color:#f5f5f5;
+    }
+
+    header h1 {
+        text-align: center;
+        font-weight: bold;
+    }
+
+    header p {
+        text-align: center;
+        font-weight: bold;
+    }
+
+    .adieu {
+        color:  #d30c0ce7;
+    }
+
+    section {
+        margin: 40px;
+    }
+
+    footer {
+    
+        background: #1a3547;
+        color:#f5f5f5;
+        text-align: center;
+        font-weight: bold;
+        width: 100%;
+        height: 100px;
+    }
